@@ -1,7 +1,6 @@
 // face.c
 //
-// Written by YOUR-NAME (YOUR-ZID),
-// on TODAYS-DATE 
+// Written by Max Davison z5492092,
 //
 // The program prints two simple faces
 //
