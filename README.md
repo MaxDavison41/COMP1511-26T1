@@ -12,4 +12,4 @@ Click on the respective directory above to access the code from that tutorial.
 
 Have fun coding!
 
-**~ Max**
+~ *Max*
